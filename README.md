@@ -5,8 +5,9 @@ lorem ipsum...
 
 lorem ipsum, it is time for lunch
 
-Here are my options:
+Here are my options
 
--pizza
--sushi
--wanton Mee
+*Pizza
+*Sushi
+*Wanton Mee
+*Hokkien Mee
