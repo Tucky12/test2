@@ -1,0 +1,17 @@
+npm init
+npm i express cors
+npm i -d  @types/express @types/node nodemon typescript
+tsc - convert ts ext.file to js.ext file
+if dont have tsc command, type npm i -g typescript
+
+split bash commands into 3 and run tsc-w , npm start and leave the last bash for installation
+tsc -w  will do a real-time update for the .ts file to .js file
+
+
+To connect to database
+npm install typeorm --save
+npm install reflect-metadata --save
+npm install @types/node --save -dev
+npm install mysql --save
+
+ormconfig.json - logging: true will show all the logs that you have done 
